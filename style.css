@@ -1,0 +1,28 @@
+.h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: inherit;
+    font-weight: 200;
+}
+
+#camera{
+    width: 500px;
+    height: 400;
+    border-color: aquamarine;
+}
+
+.result1{
+    width: 200;
+    height: 300;
+    box-shadow: wheat;
+}
+.result2{
+    width: 300;
+    height: 500;
+    box-shadow: wheat;
+}
+.result3{
+    width: 200;
+    height: 300;
+    box-shadow: wheat;
+}
+
